@@ -36,3 +36,9 @@ El proyecto tiene un doble objetivo principal:
 Restauración de ECUs: Devolver la funcionalidad original a las Unidades de Control Electrónico (ECU) automotrices, prolongando su vida útil y ofreciendo una alternativa más sostenible y económica frente a la compra de unidades nuevas.
 
 Desarrollo de un sistema de simulación: Crear un entorno didáctico y experimental mediante un sistema de emulación analógica (usando placas ESP32 interconectadas por WiFi) para verificar el funcionamiento de las ECUs, demostrando de forma práctica cómo estas controlan diversas funciones del vehículo, como motores, luces y sonidos.
+
+
+## Esquematico
+(proximamente)
+## PCB
+(proximamente)
