@@ -37,6 +37,7 @@ Desarrollo de un sistema de simulación: Crear un entorno didáctico y experimen
 
 
 ## Esquematico
-<img width="930" height="428" alt="esobrad" src="https://github.com/user-attachments/assets/aae51869-3e86-4435-bb4a-ffdb7721e5de" />
-## PCB
 <img width="754" height="592" alt="nomameswey" src="https://github.com/user-attachments/assets/63b95996-9304-4cbe-8abb-0c68da568a50" />
+## PCB
+
+<img width="930" height="428" alt="esobrad" src="https://github.com/user-attachments/assets/aae51869-3e86-4435-bb4a-ffdb7721e5de" />
