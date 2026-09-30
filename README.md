@@ -1,8 +1,6 @@
 # Projecto-Ecu
 ## 👥 Autores
 - **Uriel Ramirez**   
-- **Demian Ramirez** 
-  
 ---
 ##  Introducción
 Nuestro proyecto se centra en la restauración de ECUs (Unidades de Control Electrónico), devolviéndoles la funcionalidad y prolongando su vida útil. Además, desarrollamos sistemas de emulación analógica que permiten verificar el correcto funcionamiento de los módulos, simulando condiciones reales de motores, luces, sonido y otros componentes.
@@ -39,6 +37,6 @@ Desarrollo de un sistema de simulación: Crear un entorno didáctico y experimen
 
 
 ## Esquematico
-(proximamente)
+<img width="930" height="428" alt="esobrad" src="https://github.com/user-attachments/assets/aae51869-3e86-4435-bb4a-ffdb7721e5de" />
 ## PCB
-(proximamente)
+<img width="754" height="592" alt="nomameswey" src="https://github.com/user-attachments/assets/63b95996-9304-4cbe-8abb-0c68da568a50" />
